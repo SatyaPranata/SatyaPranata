@@ -62,9 +62,3 @@
 </picture>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/SatyaPranata/SatyaPranata/output/snake.svg" alt="Snake animation" />
-
-###
